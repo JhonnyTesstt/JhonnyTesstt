@@ -12,5 +12,3 @@ Sou um estudante comprometido de Análise e Desenvolvimento de Sistemas, apaixon
 ### 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,java,py)](https://skillicons.dev)
-
-# JhonnyTesstt
