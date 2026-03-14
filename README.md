@@ -1,12 +1,15 @@
 # Hello, DEVs 👩‍💻
 <p align="justify">
-Sou um estudante comprometido de Análise e Desenvolvimento de Sistemas, apaixonado por transformar conceitos em soluções práticas. Com habilidades em programação, análise de dados e resolução de problemas, busco uma oportunidade de estágio para aplicar e expandir meu conhecimento em um ambiente profissional. Sou proativo, colaborativo e estou sempre disposto a aprender e crescer junto com a equipe.
+Hello!
+I'm João Victor, a Software Analysis and Development professional with experience in transforming concepts into practical and efficient solutions. Skilled in Java, Kotlin, Quarkus, Spring Boot, Redis, PostgreSQL, and RabbitMQ, I am capable of designing and implementing scalable and robust systems that meet real business needs.
+
+Proactive, collaborative, and committed to continuous learning, I focus on contributing to challenging projects where I can apply my technical expertise and problem-solving skills. I aim to keep evolving as a developer and to make a meaningful impact on innovative teams within the information technology field.
 </p>
 
 ## Conecte-se comigo 
 ### 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-oliveira-63a883143/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](Mailto:jvdeoliveira1414@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-victor-de-oliveira-63a883143)
 
 ## Tecnologias
 ### 
