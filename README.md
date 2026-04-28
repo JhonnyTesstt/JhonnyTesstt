@@ -9,7 +9,7 @@ Proactive, collaborative, and committed to continuous learning, I focus on contr
 ## Conecte-se comigo 
 ### 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-victor-de-oliveira-63a883143](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-63a883143)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joão-victor-de-oliveira-63a883143](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-63a883143/))
 ## Tecnologias
 ### 
 
